@@ -116,8 +116,5 @@ public class CalculatorTest {
         for(String targetString:uniqueIDBank){
             assertTrue(targetString.contains("CS204"));
         }
-
     }
-
-
 }
