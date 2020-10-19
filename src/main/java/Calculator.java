@@ -2,7 +2,6 @@ import java.util.UUID;
 
 class Calculator {
 
-    This is some text to make my tests fail
     Calculator(){
 
     }
